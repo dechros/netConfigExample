@@ -124,7 +124,7 @@ namespace nrtconfServer
             }
             catch (Exception)
             {
-                throw;
+                return "offline";
             }
         }
 
@@ -226,7 +226,6 @@ namespace nrtconfServer
             catch (Exception)
             {
 
-                throw;
             }
         }
     }

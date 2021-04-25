@@ -149,7 +149,7 @@ namespace netconfClient
             }
             catch (Exception)
             {
-                throw;
+                return "offline";
             }
         }
 
