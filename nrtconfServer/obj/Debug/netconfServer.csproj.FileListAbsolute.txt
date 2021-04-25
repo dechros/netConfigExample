@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\netconfClient\nrtconfServer\bin\Debug\nrtconfServer.exe.config
+C:\Users\hp\source\repos\netconfClient\nrtconfServer\bin\Debug\nrtconfServer.exe
+C:\Users\hp\source\repos\netconfClient\nrtconfServer\bin\Debug\nrtconfServer.pdb
+C:\Users\hp\source\repos\netconfClient\nrtconfServer\obj\Debug\netconfServer.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\netconfClient\nrtconfServer\obj\Debug\MainWindow.g.cs
+C:\Users\hp\source\repos\netconfClient\nrtconfServer\obj\Debug\App.g.cs
+C:\Users\hp\source\repos\netconfClient\nrtconfServer\obj\Debug\nrtconfServer_MarkupCompile.cache
+C:\Users\hp\source\repos\netconfClient\nrtconfServer\obj\Debug\nrtconfServer_MarkupCompile.lref
+C:\Users\hp\source\repos\netconfClient\nrtconfServer\obj\Debug\MainWindow.baml
+C:\Users\hp\source\repos\netconfClient\nrtconfServer\obj\Debug\nrtconfServer.g.resources
+C:\Users\hp\source\repos\netconfClient\nrtconfServer\obj\Debug\nrtconfServer.Properties.Resources.resources
+C:\Users\hp\source\repos\netconfClient\nrtconfServer\obj\Debug\netconfServer.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\netconfClient\nrtconfServer\obj\Debug\netconfServer.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\netconfClient\nrtconfServer\obj\Debug\nrtconfServer.exe
+C:\Users\hp\source\repos\netconfClient\nrtconfServer\obj\Debug\nrtconfServer.pdb
