@@ -1,9 +1,3 @@
-# netconfClient
- 1. Bu proje bir deneme projesidir.
- 2. Bu projeyi indirdikten sonra kullanmak için Visual Studio 2019 programını yüklemeniz gerekmektedir. Program yüklendikten sonra netconfClient isimli çözümün içerisinde 2 adet proje gözükecektir. Bunlar; netconfClient ve netconfServer isimli iki projedir.
- 3. Bu projeleri aynı anda VS 2019 üzerinden çalıştırmak mümkün olmadığı için ayrı ayrı iki projenin de içerisinde bulunan bin\Debug klasörleri içerisinde .exe uygulamaları bulunabilir. Böylelikle aynı anda iki projeyi de çalıştırabilirsiniz. .exe dosyaları son versiyona göre build edilmiş olup hali hazırdaki kodlar ile eşleşmektedir.
- 4. Proje kapsamında netconf kütüphanesini kullanan client ve server programları tasarlanmak amaçlanmıştır lakin C# ile uyumlu hazır bir iletişim protokolü implementasyonu bulamadığım için netconf ile benzer XML tag'leri kullanan daha basit bir protokol geliştirilmiştir.
- 5. Server uygulaması C:\Ulak klasörü içerisine iki adet XML dosyası oluşturmaktadır. server.xml dosyası serverin online/offline durumunu kaydetmektedir ve server tarafından kontrol edilmektedir. serverConf.xml dosyası server'in model, seri no gibi özelliklerini kaysetmektedir. Bu dosya server her açıldığında sıfırlanmaktadır. 
- 6. Client uygulaması C:\Ulak klasörü içerisine tek bir XML dosyası kullanmaktadır. Bu dosya hem client'in online/offline status bilgilerini tutmaktadır hem de client tarafından device'a yapılmak istenen değişiklikleri tutmaktadır. Server bu XML dosyasındaki request edilen bilgileri okuyarak kendi serverConf.xml dosyasına kaydetmektedir.
- 7. Proje içerisinde asenkron fonksiyonlar ve multitasking implementasyonları yapılmıştır lakin class based bir mimari tasarım yerine function based bir mimari tasarım kullanılarak kodun daha basitleşmesi amaçlanmıştır.
- 8. Soru ve önerileriniz için halitcetin@live.com adresinden ileitşime geçebilirsiniz.
+# netConfigExample
+This project is a net config protocol implementation project.
+This project is designed for Windows desktop computers.
